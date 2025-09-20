@@ -4,7 +4,7 @@ application:
   password: ${TEST_PASSWORD}
 
 test:
-  browser: chromium
+  browser: webkit
   headless: false
   slow:
     motion: 100

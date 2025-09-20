@@ -21,7 +21,7 @@ public class LoginPage extends BasePage {
 
     @Step("Type <email> into 'Email Address' textbox")
     public LoginPage typeEmail(final String email) {
-        getPage().locator("form[action='/login']").getByPlaceholder("Email Address").fill(email);
+        getPage().locator("form[action='/login']").getByPlaceholder("Email Address1").fill(email);
 
         return this;
     }
