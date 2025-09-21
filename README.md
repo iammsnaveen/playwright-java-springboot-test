@@ -1962,3 +1962,5 @@ The `BaseTest` class is the culmination of all the concepts we've learned, bring
 - **timeout:** Time in milliseconds for test steps to complete before timing out.
 - **video:** Configuration for enabling video recording, including the storage path and resolution.
 - **screen:** Configuration for capturing screenshots, including screen size
+  
+https://code2tutorial.com/tutorial/dfb8e3ef-f12d-4a20-926d-492a945d6abf/index.md
